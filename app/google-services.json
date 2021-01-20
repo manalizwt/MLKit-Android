@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965066876336",
+    "firebase_url": "https://fir-ml-kit-47e74.firebaseio.com",
+    "project_id": "fir-ml-kit-47e74",
+    "storage_bucket": "fir-ml-kit-47e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965066876336:android:520493993c1a20fb5e6275",
+        "android_client_info": {
+          "package_name": "com.appmarkets.firebasemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965066876336-7ottkfos1hdkg3pfdm1lgssdl314hdtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQyoeZ1g_81362zCko8337P89Rivpl6Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965066876336-7ottkfos1hdkg3pfdm1lgssdl314hdtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
